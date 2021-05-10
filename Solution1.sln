@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6BDC988A-02AF-4F83-A726-FE697400D386}"
+	ProjectSection(SolutionItems) = preProject
+		bogazdan-manzaralar.jpg = bogazdan-manzaralar.jpg
+		cv.jfif = cv.jfif
+		StyleSheet1.css = StyleSheet1.css
+		tzgl.jpg = tzgl.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0EF6690-F385-4149-A29E-014CFC857128}
+	EndGlobalSection
+EndGlobal
